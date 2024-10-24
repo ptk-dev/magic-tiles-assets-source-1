@@ -1,10 +1,11 @@
 {
     "name": "Main Hoon Na",
-    "cover": "https://cdn.jsdelivr.net/gh/ptk-dev/magic-tiles-assets-source-1@main/cover/main-hoon-na-cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/ptk-dev/magic-tiles-assets-source-1@main/cover/1.jpg",
     "tiledata": [
         [1,0,0,1],
         [1,0,0,1],
         [1,0,0,1],
         [0,0,1,0]
-    ]
+    ],
+    "audio": "https://cdn.jsdelivr.net/gh/ptk-dev/magic-tiles-assets-source-1@main/music/1.mp3"
 }
